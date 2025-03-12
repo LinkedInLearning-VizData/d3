@@ -1,0 +1,4 @@
+<people>
+  <person name="Alice" age="25" score="88"/>
+  <person name="Bob" age="30" score="92"/>
+</people>

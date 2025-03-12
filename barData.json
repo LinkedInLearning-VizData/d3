@@ -1,0 +1,26 @@
+[
+  {
+    "category": "A",
+    "subcategories": [
+      { "name": "X", "value": 30 },
+      { "name": "Y", "value": 20 },
+      { "name": "Z", "value": 50 }
+    ]
+  },
+  {
+    "category": "B",
+    "subcategories": [
+      { "name": "X", "value": 40 },
+      { "name": "Y", "value": 10 },
+      { "name": "Z", "value": 30 }
+    ]
+  },
+  {
+    "category": "C",
+    "subcategories": [
+      { "name": "X", "value": 20 },
+      { "name": "Y", "value": 40 },
+      { "name": "Z", "value": 10 }
+    ]
+  }
+]

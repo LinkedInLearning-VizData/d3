@@ -1,0 +1,7 @@
+const data = [
+  { day: "Mon", desktop: 100, mobile: 80, tablet: 30 },
+  { day: "Tue", desktop: 120, mobile: 90, tablet: 40 },
+  { day: "Wed", desktop: 90, mobile: 70, tablet: 20 },
+  { day: "Thu", desktop: 110, mobile: 100, tablet: 50 },
+  { day: "Fri", desktop: 95, mobile: 85, tablet: 35 }
+];

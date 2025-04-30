@@ -1,0 +1,9 @@
+const data = [
+  { day: 0, temp: 12 },
+  { day: 1, temp: 17 },
+  { day: 2, temp: 15 },
+  { day: 3, temp: null },
+  { day: 4, temp: 18 },
+  { day: 5, temp: 20 },
+  { day: 6, temp: 16 }
+];

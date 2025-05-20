@@ -1,4 +1,4 @@
-const data = [
+[
   { activity: "Work", hours: 8 },
   { activity: "Sleep", hours: 7 },
   { activity: "Exercise", hours: 1 },

@@ -4,4 +4,4 @@
   { activity: "Exercise", hours: 1 },
   { activity: "Leisure", hours: 4 },
   { activity: "Other", hours: 4 }
-];
+]

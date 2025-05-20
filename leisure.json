@@ -1,7 +1,7 @@
 [
-  { activity: "Work", hours: 8 },
-  { activity: "Sleep", hours: 7 },
-  { activity: "Exercise", hours: 1 },
-  { activity: "Leisure", hours: 4 },
-  { activity: "Other", hours: 4 }
+  { "activity": "Work", "hours": 8 },
+  { "activity": "Sleep", "hours": 7 },
+  { "activity": "Exercise", "hours": 1 },
+  { "activity": "Leisure", "hours": 4 },
+  { "activity": "Other", "hours": 4 }
 ]
